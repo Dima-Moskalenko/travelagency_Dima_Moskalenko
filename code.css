@@ -1,0 +1,145 @@
+
+head {
+    background: url(../amg/video/youtube-video-gif.gif);
+}
+.navigator_menu {
+     
+text-align: end;
+    display: flex;
+    
+}
+li {
+    font-weight: 800;
+ font-size: 30px;
+padding-left: 20px;
+list-style-type: none;
+}
+
+a { 
+    color: coral;   
+    text-decoration: none;
+
+}
+.logo{
+    
+padding-left: 300px;
+width: 125px;
+height: 125px;
+}
+.o {
+    color: saddlebrown;
+}
+main {
+    
+
+}
+h1{
+    background-color: #FFCA86;
+}
+.samolyot {
+    opacity: 0.8;
+    border-radius: 50%;
+ max-width: 225px;
+ max-height: 225px;
+}
+.trnsfer{
+    
+    border-radius: 90%;
+    max-width: 225px;
+ max-height: 225px;
+ opacity: 0.8;
+}
+.hotel{
+    
+    border-radius: 50%;
+    max-width: 225px;
+    max-height: 225px;
+    opacity: 0.8;
+}
+.pitania{
+     
+    border-radius: 50%;
+    max-width: 225px;
+    max-height: 225px;
+    opacity: 0.8;
+}
+.strahovka{
+    opacity: 0.9;
+    max-width: 325px;
+    max-height: 325px;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.button_hot_tours{
+   
+    color: white ;
+    background-color: orangered;
+}
+main {
+    
+}
+.img_center{
+    
+    display: flex;
+    margin: 0 15% 0 15%;
+    width: 50%;
+    
+}
+.video{
+    background-image: url(../amg/video/youtube-video-gif.gif);
+
+}
+.user_wan {
+    font-size: height 10%;
+}
+/* Style the container with a rounded border, grey background and some padding and margin */
+.container {
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
+}
+
+/* Clear floats after containers */
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+.container img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+/* Increase the font-size of a span element */
+.container span {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+/* Add media queries for responsiveness. This will center both the text and the image inside the container */
+@media (max-width: 500px) {
+  .container {
+    text-align: center;
+  }
+
+  .container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}
+.support {
+    background-color: aquamarine;
+}
+.head_support {
+    
+}
